@@ -1,6 +1,7 @@
 export const authEndpoint = "https://accounts.spotify.com/authorize";
+const redirectUri = "https://spotify-clone-73a9c.web.app/";
 const clientId = "4f0c2a8e7b924f47b02f8718ddb0fc8b";
-const redirectUri = "https://spotify-clone-3f120.web.app";
+
 const scopes = [
   "user-read-currently-playing",
   "user-read-recently-played",
