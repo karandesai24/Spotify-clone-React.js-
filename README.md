@@ -7,7 +7,7 @@
 
 -Material UI for icons
 
--Spotify API for authentication and user data fetching
+-Spotify API for authentication and  fetching user's data
 
 -Firebase for deployment
 
