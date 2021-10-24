@@ -1,5 +1,5 @@
 # Spotify Clone
-**This project is a clone of the Spotify website. You may visit the site through the link :rocket: (https://spotify-clone-73a9c.web.app)
+**This project is a clone of the Spotify website. You can visit the site through the link :rocket: (https://spotify-clone-73a9c.web.app)
 
 ## Technologies Used:
 
@@ -11,7 +11,7 @@
 
 -Firebase for deployment
 
-### Screenshots
+## Screenshots
 
 ### Login page
 ![Screenshot1](https://user-images.githubusercontent.com/78134745/138594541-c621d2e5-a796-49f2-a024-c643d5621278.png)
