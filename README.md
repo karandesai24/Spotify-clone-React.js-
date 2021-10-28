@@ -1,5 +1,5 @@
 # Spotify Clone
-**This project is a clone of the Spotify website. You can visit the site through the link :rocket: (https://spotify-clone-73a9c.web.app)
+**This project is a clone of the Spotify website. Deployed project link :rocket: (https://spotify-clone-73a9c.web.app)
 
 ## Technologies Used:
 
